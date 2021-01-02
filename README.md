@@ -1,2 +1,2 @@
 # Hacking-Tools
-Syntax is: python3 PortScanner.py <hostname or ip> <start port> <end port> <Number of Threads (Workers)>
+Syntax is: python3 PortScanner.py \<Hostname or ip> \<Start port> \<End port> \<Number of Threads (Workers)>
